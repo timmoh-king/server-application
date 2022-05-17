@@ -1,0 +1,54 @@
+{
+    "todos": [
+      {
+        "id": "1",
+        "completed": true,
+        "description": "Take out trash"
+      },
+      {
+        "id": "2",
+        "completed": false,
+        "description": "Do the React application"
+      },
+      {
+        "id": "3",
+        "completed": false,
+        "description": "Go to Ikigai"
+      },
+      {
+        "id": "4",
+        "completed": true,
+        "description": "Go out to church"
+      },
+      {
+        "id": "5",
+        "completed": false,
+        "description": "Go for mission"
+      },
+      {
+        "id": "6",
+        "completed": true,
+        "description": "Go to the gym"
+      },
+      {
+        "id": "7",
+        "completed": true,
+        "description": "Go for holidays"
+      },
+      {
+        "id": "8",
+        "completed": true,
+        "description": "Finish the TodoList app"
+      },
+      {
+        "id": "9",
+        "completed": false,
+        "description": "Start on a project"
+      },
+      {
+        "id": "10",
+        "completed": false,
+        "description": "Wash dishes"
+      }
+    ]
+  }
